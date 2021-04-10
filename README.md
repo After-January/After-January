@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @After-January
-- 👀 I’m interested in Python, Machine-Learning, Deep Learning
-- 🌱 I’m currently learning Mysql, Python
+- 👋 Hi, I’m @After-January ^^
+- 👀 I’m interested in Python, Machine-Learning, Deep Learning.
+- 🌱 I’m currently learning Mysql, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
